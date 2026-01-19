@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mutedself&label=Profile%20views&color=0e75b6&style=flat" alt="mutedself" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mutedself" alt="mutedself" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/abhikalpjohari" target="blank"><img src="https://img.shields.io/twitter/follow/abhikalpjohari?logo=twitter&style=for-the-badge" alt="abhikalpjohari" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -19,5 +17,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mutedself&show_icons=true&locale=en&layout=compact" alt="mutedself" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mutedself&show_icons=true&locale=en" alt="mutedself" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mutedself&" alt="mutedself" /></p>
